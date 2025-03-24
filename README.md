@@ -1,3 +1,7 @@
+![beanteacher's GitHub stats](https://github-readme-stats.vercel.app/api?username=beanteacher&show_icons=true&theme=dracula)
+<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dh65432)](https://solved.ac/dh65432/)
+
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white">
